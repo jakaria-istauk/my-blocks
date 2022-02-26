@@ -1,0 +1,15 @@
+{
+    "name": "Jakaria/EditorX",
+    "authors": [
+        {
+            "name": "Jakaria",
+            "email": "jakariamd35@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jakaria\\EditorX\\" : "classes/"
+        },
+        "files": [ "functions/functions.php" ]
+    }
+}
